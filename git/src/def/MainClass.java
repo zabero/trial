@@ -17,6 +17,8 @@ public class MainClass {
 ///sasadjsadhgasd
 		
 		Scanner scan = new Scanner(System.in);
+		
+		int x = scan.nextInt();
 	}
 
 }
